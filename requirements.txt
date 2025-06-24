@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+transformers
+torch
+pillow
+cmake
+dlib
+face_recognition
