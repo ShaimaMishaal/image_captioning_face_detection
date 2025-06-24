@@ -32,13 +32,14 @@ A simple app to upload or capture an image, detect faces with bounding boxes, an
    python -m venv venv
    ```
    Then activate the environment
+   
    * For Windows :
      ```
      .\venv\Scripts\activate
    * For Linux / macOS :
      ```
      source venv/bin/activate
-5. Install dependencies :
+6. Install dependencies :
    ```
    pip install -r requirements.txt
 7. Run the Streamlit app :
